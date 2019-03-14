@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fcb3cd9adbb32300cce2fbefbf9619bd" sys_domain="global" table="x_272851_hotel_guest" version="3" view="Sample">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>30b301dadbb32300cce2fbefbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>38b301dadbb32300cce2fbefbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b8b301dadbb32300cce2fbefbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_membership_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>3cb301dadbb32300cce2fbefbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>bcb301dadbb32300cce2fbefbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>30b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_password</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b0b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>34b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b4b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>38b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b8b301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>3cb301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_integration</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>bcb301dadbb32300cce2fbefbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>30b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_format</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b0b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>34b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b4b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>38b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>b8b301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_id>3cb301dadbb32300cce2fbefbf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_272851_hotel_guest" sys_domain="global" view="74b3cd9adbb32300cce2fbefbf9619ba">fcb3cd9adbb32300cce2fbefbf9619bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_272851_hotel_guest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:13:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcb3cd9adbb32300cce2fbefbf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_272851_hotel_guest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_272851_hotel">555e7e06db232300cce2fbefbf961940</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hotel">555e7e06db232300cce2fbefbf961940</sys_scope>
+            <sys_update_name>sys_ui_section_fcb3cd9adbb32300cce2fbefbf9619bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:13:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Sample" name="Sample">74b3cd9adbb32300cce2fbefbf9619ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

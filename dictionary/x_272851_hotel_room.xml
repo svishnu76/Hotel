@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Room" max_length="40" name="x_272851_hotel_room" type="collection">
+        <element label="Floor" max_length="40" name="u_floor" type="integer"/>
+        <element display="true" label="Room Number" max_length="40" name="u_room_number" type="integer"/>
+    </element>
+</database>

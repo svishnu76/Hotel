@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" extends="sys_user" label="Guest" max_length="40" name="x_272851_hotel_guest" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Membership Number" max_length="40" name="u_membership_number" type="string"/>
+        <element label="VIP" max_length="40" name="u_vip" type="boolean"/>
+    </element>
+</database>

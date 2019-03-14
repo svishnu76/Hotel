@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Check-in" max_length="40" name="x_272851_hotel_check_in" type="collection">
+        <element label="Comments" max_length="500" name="u_comments" type="string"/>
+        <element label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Guest" max_length="32" name="u_guest" reference="x_272851_hotel_guest" type="reference"/>
+        <element label="Room Number" max_length="32" name="u_room_number" reference="x_272851_hotel_room" type="reference"/>
+        <index name="index">
+            <element name="u_room_number"/>
+        </index>
+        <index name="index2">
+            <element name="u_guest"/>
+        </index>
+    </element>
+</database>
